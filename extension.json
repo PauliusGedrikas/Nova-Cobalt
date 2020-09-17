@@ -1,0 +1,9 @@
+{
+    "identifier": "pauliusgedrikas.Cobalt",
+    "name": "Cobalt",
+    "organization": "Paulius Gedrikas",
+    "description": "Cobalt theme for Nova, inspired from TextMate.",
+    "version": "1.0",
+    "categories": ["themes"],
+    "bugs": "https://github.com/PauliusGedrikas/Nova-Cobalt/issues"
+}
