@@ -3,7 +3,7 @@
     "name": "Cobalt",
     "organization": "Paulius Gedrikas",
     "description": "Cobalt theme for Nova, inspired from TextMate.",
-    "version": "1.0",
+    "version": "1.0.2",
     "categories": ["themes"],
     "bugs": "https://github.com/PauliusGedrikas/Nova-Cobalt/issues"
 }
