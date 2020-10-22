@@ -32,6 +32,7 @@ meta.button.highlighted {
 }
 meta.button.selected {
     color: #eee;
+    background: linear-gradient(hsb(207, 100%, 55%), hsb(207, 100%, 60%));
 }
 meta.button.highlighted.selected {
     color: white;
