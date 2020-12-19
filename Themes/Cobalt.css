@@ -88,7 +88,7 @@ meta.text.invisible {
     color: #244c6b;
 }
 meta.text.selected {
-    color: #0050A4;
+    background-color: #926448;
 }
 
 /* Cursor */
